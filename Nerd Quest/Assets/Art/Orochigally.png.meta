@@ -1,0 +1,451 @@
+fileFormatVersion: 2
+guid: ed7c536a20ac86242b8afdfd1cc6fc00
+timeCreated: 1440439784
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Walk 1
+    21300002: Walk 2
+    21300004: Walk 3
+    21300006: Walk 4
+    21300008: Walk 5
+    21300010: Idle 1
+    21300012: Idle 2
+    21300014: Attack 1
+    21300016: Attack 2
+    21300018: Attack 3
+    21300020: Attack 4
+    21300022: Attack 5
+    21300024: Attack 6
+    21300026: Attack 7
+    21300028: Attack 8
+    21300030: Attack 9
+    21300032: Attack 10
+    21300034: Attack 11
+    21300036: Attack 12
+    21300038: Summon 1
+    21300040: Summon 2
+    21300042: Summon 3
+    21300044: Summon 4
+    21300046: Summon 5
+    21300048: Summon 6
+    21300050: Summon 7
+    21300052: Summon 8
+    21300054: Summon 9
+    21300056: Summon 10
+    21300058: Summon 11
+    21300060: Summon 12
+    21300062: Summon 13
+    21300064: Summon 14
+    21300066: Summon 15
+    21300068: Summon 16
+    21300070: Stand
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Walk 1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 409
+        width: 37
+        height: 91
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Walk 2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 409
+        width: 36
+        height: 91
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Walk 3
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 409
+        width: 36
+        height: 91
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Walk 4
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 409
+        width: 36
+        height: 91
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Walk 5
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 409
+        width: 36
+        height: 91
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Idle 1
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 409
+        width: 36
+        height: 91
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Idle 2
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 409
+        width: 36
+        height: 90
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Attack 1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 313
+        width: 42
+        height: 90
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Attack 2
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 313
+        width: 42
+        height: 88
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Attack 3
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 313
+        width: 44
+        height: 86
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Attack 4
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 313
+        width: 51
+        height: 88
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Attack 5
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 313
+        width: 58
+        height: 88
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Attack 6
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 313
+        width: 55
+        height: 88
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Attack 7
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 222
+        width: 55
+        height: 88
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Attack 8
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 222
+        width: 55
+        height: 89
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Attack 9
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 222
+        width: 55
+        height: 89
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Attack 10
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 222
+        width: 55
+        height: 89
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Attack 11
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 222
+        width: 66
+        height: 75
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Attack 12
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 222
+        width: 64
+        height: 77
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Summon 1
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 122
+        width: 36
+        height: 90
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Summon 2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 122
+        width: 44
+        height: 88
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Summon 3
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 122
+        width: 43
+        height: 86
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Summon 4
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 122
+        width: 43
+        height: 88
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Summon 5
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 122
+        width: 43
+        height: 86
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Summon 6
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 122
+        width: 43
+        height: 88
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Summon 7
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 122
+        width: 43
+        height: 86
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Summon 8
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 122
+        width: 43
+        height: 88
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Summon 9
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 122
+        width: 43
+        height: 86
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Summon 10
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 22
+        width: 43
+        height: 88
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Summon 11
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 22
+        width: 43
+        height: 86
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Summon 12
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 22
+        width: 43
+        height: 88
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Summon 13
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 22
+        width: 43
+        height: 86
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Summon 14
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 22
+        width: 43
+        height: 88
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Summon 15
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 22
+        width: 41
+        height: 86
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Summon 16
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 22
+        width: 42
+        height: 88
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stand
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 22
+        width: 36
+        height: 90
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

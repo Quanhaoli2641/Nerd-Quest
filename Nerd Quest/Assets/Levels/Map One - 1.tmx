@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="150" height="40" tilewidth="32" tileheight="32" nextobjectid="1">
+ <tileset firstgid="1" name="QZwtrPw" tilewidth="32" tileheight="32">
+  <image source="Ladders.gif" width="195" height="329"/>
+  <tile id="0">
+   <objectgroup draworder="index">
+    <object id="0" x="-0.206186" y="0" width="32.1649" height="31.9588"/>
+   </objectgroup>
+  </tile>
+  <tile id="1">
+   <objectgroup draworder="index">
+    <object id="0" x="0" y="0" width="31.7526" height="31.9588"/>
+   </objectgroup>
+  </tile>
+  <tile id="2">
+   <objectgroup draworder="index">
+    <object id="0" x="-0.206186" y="0" width="32.1649" height="31.9588"/>
+   </objectgroup>
+  </tile>
+  <tile id="3">
+   <objectgroup draworder="index">
+    <object id="0" x="-0.206186" y="-0.206186" width="32.1649" height="31.9588"/>
+   </objectgroup>
+  </tile>
+  <tile id="7">
+   <objectgroup draworder="index">
+    <object id="0" x="-0.206186" y="-0.206186" width="32.1649" height="32.1649"/>
+   </objectgroup>
+  </tile>
+  <tile id="8">
+   <objectgroup draworder="index">
+    <object id="0" x="-0.206186" y="0" width="31.9588" height="31.9588"/>
+   </objectgroup>
+  </tile>
+  <tile id="9">
+   <objectgroup draworder="index">
+    <object id="0" x="-0.206186" y="-0.206186" width="32.1649" height="32.1649"/>
+   </objectgroup>
+  </tile>
+  <tile id="13">
+   <objectgroup draworder="index">
+    <object id="0" x="0" y="0" width="31.9588" height="32.1649"/>
+   </objectgroup>
+  </tile>
+  <tile id="14">
+   <objectgroup draworder="index">
+    <object id="0" x="0" y="-0.206186" width="31.7526" height="32.1649"/>
+   </objectgroup>
+  </tile>
+  <tile id="15">
+   <objectgroup draworder="index">
+    <object id="0" x="0" y="-0.206186" width="31.7526" height="31.9588"/>
+   </objectgroup>
+  </tile>
+  <tile id="16">
+   <objectgroup draworder="index">
+    <object id="0" x="1.23711" y="0" width="29.6907" height="31.7526"/>
+   </objectgroup>
+  </tile>
+  <tile id="19">
+   <objectgroup draworder="index">
+    <object id="0" x="0" y="0" width="31.7526" height="31.9588"/>
+   </objectgroup>
+  </tile>
+  <tile id="20">
+   <objectgroup draworder="index">
+    <object id="0" x="0" y="0" width="31.7526" height="31.9588"/>
+   </objectgroup>
+  </tile>
+  <tile id="21">
+   <objectgroup draworder="index">
+    <object id="0" x="-0.412371" y="0" width="32.1649" height="31.7526"/>
+   </objectgroup>
+  </tile>
+  <tile id="22">
+   <objectgroup draworder="index">
+    <object id="0" x="0.618557" y="-0.206186" width="30.5155" height="32.1649"/>
+   </objectgroup>
+  </tile>
+  <tile id="25">
+   <objectgroup draworder="index">
+    <object id="0" x="-0.412371" y="0" width="32.3711" height="31.7526"/>
+   </objectgroup>
+  </tile>
+  <tile id="26">
+   <objectgroup draworder="index">
+    <object id="0" x="0" y="0" width="31.9588" height="31.7526"/>
+   </objectgroup>
+  </tile>
+  <tile id="27">
+   <objectgroup draworder="index">
+    <object id="0" x="-0.206186" y="0" width="31.9588" height="31.7526"/>
+   </objectgroup>
+  </tile>
+ </tileset>
+ <tileset firstgid="61" name="generic-platformer-tiles" tilewidth="32" tileheight="32">
+  <image source="General.png" width="384" height="256"/>
+  <tile id="17">
+   <objectgroup draworder="index">
+    <object id="0" x="0.206186" y="6.18557" width="31.5464" height="25.7732"/>
+   </objectgroup>
+  </tile>
+  <tile id="18">
+   <objectgroup draworder="index">
+    <object id="0" x="-0.206186" y="5.56701" width="31.9588" height="26.3918"/>
+   </objectgroup>
+  </tile>
+ </tileset>
+ <tileset firstgid="157" name="h0k88NK" tilewidth="32" tileheight="32">
+  <image source="More Spikes.png" width="64" height="64"/>
+  <tile id="0">
+   <objectgroup draworder="index">
+    <object id="0" x="0" y="12.7835" width="31.7526" height="18.9691"/>
+   </objectgroup>
+  </tile>
+  <tile id="1">
+   <objectgroup draworder="index">
+    <object id="0" x="11.7526" y="-0.206186" width="20.2062" height="31.9588"/>
+   </objectgroup>
+  </tile>
+ </tileset>
+ <tileset firstgid="161" name="vLxbXOw" tilewidth="32" tileheight="32">
+  <image source="Traps.png" width="160" height="64"/>
+  <tile id="0">
+   <objectgroup draworder="index">
+    <object id="0" x="-0.413223" y="1.8595" width="24.3802" height="27.8926"/>
+   </objectgroup>
+  </tile>
+  <tile id="2">
+   <objectgroup draworder="index">
+    <object id="0" x="14.4628" y="18.595">
+     <ellipse/>
+    </object>
+    <object id="0" x="23.7603" y="1.03306" width="7.02479" height="7.64463">
+     <ellipse/>
+    </object>
+    <object id="0" x="26.6529" y="23.1405" width="4.54545" height="4.54545">
+     <ellipse/>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="3">
+   <objectgroup draworder="index">
+    <object id="0" x="16.9421" y="16.3223">
+     <ellipse/>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="4">
+   <objectgroup draworder="index">
+    <object id="0" x="7.43802" y="2.06612" width="24.5868" height="27.8926"/>
+   </objectgroup>
+  </tile>
+  <tile id="5">
+   <objectgroup draworder="index">
+    <object id="0" x="0" y="-0.206612" width="31.6116" height="22.314"/>
+   </objectgroup>
+  </tile>
+  <tile id="8">
+   <objectgroup draworder="index">
+    <object id="0" x="16.1157" y="15.4959">
+     <ellipse/>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="9">
+   <objectgroup draworder="index">
+    <object id="0" x="-0.206612" y="11.3636" width="32.0248" height="20.6612"/>
+   </objectgroup>
+  </tile>
+ </tileset>
+ <tileset firstgid="171" name="asdfasd" tilewidth="32" tileheight="32">
+  <image source="Spikes.png" width="64" height="64"/>
+  <tile id="2">
+   <objectgroup draworder="index">
+    <object id="0" x="-0.206612" y="-0.206612" width="19.2149" height="32.2314"/>
+   </objectgroup>
+  </tile>
+  <tile id="3">
+   <objectgroup draworder="index">
+    <object id="0" x="-0.413223" y="-0.413223" width="32.438" height="19.6281"/>
+   </objectgroup>
+  </tile>
+ </tileset>
+ <tileset firstgid="175" name="voKMFD2" tilewidth="32" tileheight="32">
+  <image source="Bridge.png" width="64" height="64"/>
+  <tile id="0">
+   <objectgroup draworder="index">
+    <object id="0" x="0" y="0" width="31.8182" height="10.124"/>
+   </objectgroup>
+  </tile>
+  <tile id="1">
+   <objectgroup draworder="index">
+    <object id="0" x="-0.413223" y="-0.206612" width="32.438" height="9.91736"/>
+   </objectgroup>
+  </tile>
+ </tileset>
+ <tileset firstgid="179" name="MhaCwOP" tilewidth="32" tileheight="32">
+  <image source="Fish.png" width="64" height="64"/>
+ </tileset>
+ <tileset firstgid="183" name="6gzgvAm" tilewidth="32" tileheight="32">
+  <image source="Homework.png" width="32" height="32"/>
+  <tile id="0">
+   <objectgroup draworder="index">
+    <object id="0" x="1.44628" y="7.02479" width="28.3058" height="22.9339"/>
+   </objectgroup>
+  </tile>
+ </tileset>
+ <tileset firstgid="184" name="55tUNlH" tilewidth="32" tileheight="32">
+  <image source="Indicators.png" width="96" height="64"/>
+ </tileset>
+ <layer name="Background2" width="150" height="40">
+  <properties>
+   <property name="unity:layer" value="Background"/>
+   <property name="unity:tag" value="Background"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJzt10sOgkAQRVG26Ni1+GHob8/2mGCCSltVcgZnqo/mJqTHYRhGAACYODTH5tScE+yJ3Jj5LDJvm3Nprs2tuTePBJuiNmY+i8zbANZW6VtaaevWVfqWVtoKAMByuw9Ebya/yK7WvBO7X+cS2dWad2L36xxtfCP6edEVdekKXVGFrtAVVegKXVGFrtAVVegKXVGFrv5X5HuJ7kqzutJVLVvqaj9RuatM26P/X1c5zy56S+azqdrVkt/79Tm9+5zRm6L17Krn+4ve8mpXxn0RKnVFHbqiB13Rg67oIWNXT6oTn78=
+  </data>
+ </layer>
+ <layer name="Background" width="150" height="40">
+  <properties>
+   <property name="unity:layer" value="Background"/>
+   <property name="unity:tag" value="Background"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJztms1OwzAQhP0SvBycgTM/Ac7AGbjwvjgHS8FyLP/MetfufNKqUlo50+nE3jpxjhBCCCGEEEIIIYQQQgghl8CLr1dfb9pCjEA/MLz7+vD1qS1EmTtf945+INh8ffn69vWjrEWT3YdHX0/uvx+bpqgFudUWYAh6Uc5VplYn990vzQs0K3q5ufN163icuZJjVi8fAGMwV3LM7mVNNnqK1DGDl7l1jbmxiRWv4z3Is3Uu/k/GTMkR9vFasOJ36x4kMyVH2MdrwYrnrXuyzJQMNf+LnhPHtH0vXe/OkMwUM9juo3auepHSPqMXEjBXOO2zetGKRC8xKle9690ZaO0zX2Mrof2MEjIHqGtM25MV0H5GCZUrRJ8f0PZkBbSfUerpDRB9RIqaPZPN8dmumNp7v6l9jl60coW4730keJMbt+QzK4G+3tHnlpyvRs+F0vwCx+rtM6W9y+kbmatrXzeHV9T5UeTu5x3fk5prY0r6zJwWae9y+kbm6pgpi7nK3c9LvdeqMT5+NsfV9N4a3uX0cb5KU9KLoXLVoqtHi7R3PXpa9Id5ylKuSsdDapT4nqN+R2u1I5UrCa0xEmNqoe0v+reSWgdnKEtoeyGVK3TfPkNZQtsLtK+zrIPM1Ty1YzFXfwKfqfk=
+  </data>
+ </layer>
+ <layer name="Interactable" width="150" height="40">
+  <properties>
+   <property name="unity:layer" value="Ground"/>
+   <property name="unity:tag" value="Ground"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJztmkFywyAMAD1pLzn1lEvbNzX//01yyUzi2hgJiQixO8P4ADaCbIxsvCwAAAAAAAAAAAAAAAAAAAC5+KgoWTkrCtRxaawfGenYMs+FNXjl135mRvfqq6HglR+je9UzvuhzEQm8er3WUYE6ont1Wl6fTT9X9Vbx4Y0t0b06wiI+nLJndq9KTrEO6t/rRfHqaL3boyW+Gqes+hqVmjFvtYnilZZSfNo8fK8u+lxoKe214JWsrnROybeMWOQSUh+t51K73u1h6dVRDpXVq+97+elcfruMTI+VBzV5eVav4D+t+ZXkWQ+v5oF9nLzUfMPl9S3Xu72SjF0yN5I2Wan9bT0c6O3V371cn46W+0jPbOXS61z30SYrM3nl1f871ljtPdVjHdK+O1sE7STgVb8+L6uj9joWsVj33+Oakr4ieKXN1yy9as2xW72yzHM1c9OCt1cW+f5eXJb3FI97y8zP2iPtGXp8i/G4Ruv7+a3/huT8qHOuZSSvPIgy1ihxWIFXMYgShxV4FadkIqpXN+81HSk=
+  </data>
+ </layer>
+ <layer name="Water" width="150" height="40">
+  <properties>
+   <property name="unity:isTrigger" value="true"/>
+   <property name="unity:layer" value="Water"/>
+   <property name="unity:tag" value="Water"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJztxTENAAAIwDAUgn83cKKAcLTJsggAAAAAAAAAAAAAAAAAAAAAAOCDnGodAAAAAIB7DezeATs=
+  </data>
+ </layer>
+ <layer name="Ladders" width="150" height="40">
+  <properties>
+   <property name="unity:layer" value="Ladders"/>
+   <property name="unity:tag" value="Ladders"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJzt1IEJwDAMBLFs0f037QjBlCOkSBOY5/BaAAAAAAAAAGc8pw/gl3RFQVcUdEVBV3M2o6CrPRvN2WzPRhR0NWezPRvN2WzPRhQN6ApdUdAABV1R0BUFXQG38K8oTLvSIQVdUdAVcAv/ioKuKOiKgq6AL14AZQLh
+  </data>
+ </layer>
+ <layer name="Broken Ladders" width="150" height="40">
+  <properties>
+   <property name="unity:layer" value="Broken Ladder"/>
+   <property name="unity:tag" value="Broken Ladder"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJzt2EkNADAMA7BSKH+yJbDv1EM2gryiKBEAAAAAAAAAAAAAb9kdAIBvdDwAAAAAwG5+XgAAuMfOBwAAmKMAqgMARQ==
+  </data>
+ </layer>
+ <layer name="Portals" width="150" height="40">
+  <properties>
+   <property name="unity:layer" value="Portals"/>
+   <property name="unity:tag" value="Portals"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJztwQENAAAAwqD3T+3sARQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADddwAAB
+  </data>
+ </layer>
+ <layer name="Hidden Blocks" width="150" height="40">
+  <properties>
+   <property name="unity:layer" value="Hidden Blocks"/>
+   <property name="unity:tag" value="Hidden Blocks"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJzt2aERAAAIA7Fa9l+YIRAcXDLBi7omAAAAAAAAAAAAAMAFtR3AS3YFAAAAAADARMXnBAAAAAD800JPACU=
+  </data>
+ </layer>
+ <layer name="Temporary Blocks" width="150" height="40">
+  <properties>
+   <property name="unity:layer" value="Temporary Blocks"/>
+   <property name="unity:tag" value="Temporary Blocks"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJztwQENAAAAwqD3T+3sARQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADddwAAB
+  </data>
+ </layer>
+ <layer name="Temp and Hidden Blocks" width="150" height="40">
+  <properties>
+   <property name="unity:layer" value="Temp and Hidden Blocks"/>
+   <property name="unity:tag" value="Temp and Hidden Blocks"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJzt1jEBAAAIw7Dh3zQeOOAgUdCzCQAAAAAAAAAAAAAAAAAAAJvqOgAAABjx8gAAAADwQwORpAAD
+  </data>
+ </layer>
+ <layer name="Spikes" width="150" height="40">
+  <properties>
+   <property name="unity:isTrigger" value="true"/>
+   <property name="unity:layer" value="Spikes"/>
+   <property name="unity:tag" value="Spikes"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJzt1MENgDAMALHuvwPMyg5I16JgS/nncclaAAAAAAAAAMAE9+kFGElXFHQF7OTnUNAVBV1R0BUFXVHQFQVdUdAVBV1R0BUFXVHQFQVdUdAVBV1R0BWFaV1dLwd2+mp7bgMAgD96AGjOGdc=
+  </data>
+ </layer>
+ <layer name="Stalagmites" width="150" height="40">
+  <properties>
+   <property name="unity:isTrigger" value="true"/>
+   <property name="unity:layer" value="Stalagmites"/>
+   <property name="unity:tag" value="Stalagmites"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJztwQENAAAAwqD3T+3sARQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADddwAAB
+  </data>
+ </layer>
+ <layer name="Falling Rocks" width="150" height="40">
+  <properties>
+   <property name="unity:isTrigger" value="true"/>
+   <property name="unity:layer" value="Falling Rocks"/>
+   <property name="unity:tag" value="Falling Rocks"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJztwQENAAAAwqD3T+3sARQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADddwAAB
+  </data>
+ </layer>
+ <layer name="Shooting cannons" width="150" height="40">
+  <properties>
+   <property name="unity:layer" value="Shooting cannons"/>
+   <property name="unity:tag" value="Shooting cannons"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJztwQENAAAAwqD3T+3sARQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADddwAAB
+  </data>
+ </layer>
+ <layer name="Homework" width="150" height="40">
+  <properties>
+   <property name="unity:layer" value="Homework"/>
+   <property name="unity:tag" value="Homework"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJzt2UERAAAIw7D5N4Q9ZHDcEgX9NwEAAAAAAAAAAAAAAAAAAKDFXAcAAAAAAABAAV8Oflt7FwFv
+  </data>
+ </layer>
+ <layer name="Indicators" width="150" height="40">
+  <properties>
+   <property name="unity:layer" value="Indicators"/>
+   <property name="unity:tag" value="Indicators"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJzt2cEJACEMBMD0X5H3SG++7nEg+BDMoTMVrBDCBiMAAAAAAAAAAAAAxlp1AOAjqwNwlHfHmysAAIC5pzoAR3KTA7DKXx7M6fJ7ZNzVb296KwD76fkAAAD/0QH3QgjB
+  </data>
+ </layer>
+</map>

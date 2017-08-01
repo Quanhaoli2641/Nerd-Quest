@@ -1,0 +1,209 @@
+fileFormatVersion: 2
+guid: 216477d2d3d7a413d82270240d8a3eda
+timeCreated: 1441989287
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Sterling Walk sheet_0
+    21300002: Sterling Walk sheet_1
+    21300004: Sterling Walk sheet_2
+    21300006: Sterling Walk sheet_3
+    21300008: Sterling Walk sheet_4
+    21300010: Sterling Walk sheet_5
+    21300012: Sterling Walk sheet_6
+    21300014: Sterling Walk sheet_7
+    21300016: Sterling Walk sheet_8
+    21300018: Sterling Walk sheet_9
+    21300020: Sterling Walk sheet_10
+    21300022: Sterling Walk sheet_11
+    21300024: Sterling Walk sheet_12
+    21300026: Sterling Walk sheet_13
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Sterling Walk sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 85
+        width: 77
+        height: 85
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sterling Walk sheet_1
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 85
+        width: 77
+        height: 85
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sterling Walk sheet_2
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 85
+        width: 77
+        height: 85
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sterling Walk sheet_3
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 85
+        width: 80
+        height: 85
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sterling Walk sheet_4
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 85
+        width: 76
+        height: 85
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sterling Walk sheet_5
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 84
+        width: 73
+        height: 86
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sterling Walk sheet_6
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 85
+        width: 77
+        height: 85
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sterling Walk sheet_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 77
+        height: 85
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sterling Walk sheet_8
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 0
+        width: 75
+        height: 85
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sterling Walk sheet_9
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 0
+        width: 78
+        height: 85
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sterling Walk sheet_10
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 0
+        width: 79
+        height: 85
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sterling Walk sheet_11
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 0
+        width: 75
+        height: 83
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sterling Walk sheet_12
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 0
+        width: 75
+        height: 84
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sterling Walk sheet_13
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 0
+        width: 76
+        height: 84
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

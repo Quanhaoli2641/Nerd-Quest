@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="300" height="40" tilewidth="32" tileheight="32" nextobjectid="1">
+ <tileset firstgid="1" name="Gally Tiles" tilewidth="32" tileheight="32">
+  <image source="../One/General.png" width="384" height="256"/>
+ </tileset>
+ <tileset firstgid="97" name="Ruin Tiles" tilewidth="32" tileheight="32">
+  <image source="../Four/Ruin Tiles.png" width="1562" height="1114"/>
+  <tile id="49">
+   <objectgroup draworder="index">
+    <object id="0" x="0" y="0" width="31.8" height="32.2"/>
+   </objectgroup>
+  </tile>
+  <tile id="50">
+   <objectgroup draworder="index">
+    <object id="0" x="0" y="0" width="32" height="31.8"/>
+   </objectgroup>
+  </tile>
+  <tile id="145">
+   <objectgroup draworder="index">
+    <object id="0" x="0" y="0" width="31.8" height="32.2"/>
+   </objectgroup>
+  </tile>
+  <tile id="337">
+   <objectgroup draworder="index">
+    <object id="0" x="-0.2" y="1" width="32.2" height="31.2"/>
+   </objectgroup>
+  </tile>
+  <tile id="338">
+   <objectgroup draworder="index">
+    <object id="0" x="-0.2" y="0.8" width="32.6" height="31.6"/>
+   </objectgroup>
+  </tile>
+  <tile id="385">
+   <objectgroup draworder="index">
+    <object id="0" x="-0.2" y="0" width="32.6" height="32.4"/>
+   </objectgroup>
+  </tile>
+  <tile id="386">
+   <objectgroup draworder="index">
+    <object id="0" x="0" y="0" width="32.6" height="31.8"/>
+   </objectgroup>
+  </tile>
+  <tile id="387">
+   <objectgroup draworder="index">
+    <object id="0" x="0" y="0" width="32.4" height="32"/>
+   </objectgroup>
+  </tile>
+  <tile id="388">
+   <objectgroup draworder="index">
+    <object id="0" x="0" y="0.2" width="32.2" height="32"/>
+   </objectgroup>
+  </tile>
+  <tile id="433">
+   <objectgroup draworder="index">
+    <object id="0" x="0" y="0" width="32.2" height="32.4"/>
+   </objectgroup>
+  </tile>
+  <tile id="434">
+   <objectgroup draworder="index">
+    <object id="0" x="-0.2" y="0" width="32.2" height="32.4"/>
+   </objectgroup>
+  </tile>
+  <tile id="435">
+   <objectgroup draworder="index">
+    <object id="0" x="-0.2" y="0" width="32.4" height="31.8"/>
+   </objectgroup>
+  </tile>
+  <tile id="436">
+   <objectgroup draworder="index">
+    <object id="0" x="-0.2" y="0" width="32.4" height="32.4"/>
+   </objectgroup>
+  </tile>
+  <tile id="481">
+   <objectgroup draworder="index">
+    <object id="0" x="-0.2" y="0" width="32.4" height="32.2"/>
+   </objectgroup>
+  </tile>
+  <tile id="482">
+   <objectgroup draworder="index">
+    <object id="0" x="0" y="0.2" width="32.2" height="31.4"/>
+   </objectgroup>
+  </tile>
+  <tile id="483">
+   <objectgroup draworder="index">
+    <object id="0" x="0" y="0" width="32.2" height="32.2"/>
+   </objectgroup>
+  </tile>
+ </tileset>
+ <tileset firstgid="1729" name="Lava" tilewidth="32" tileheight="32">
+  <image source="../Four/Lava.png" width="64" height="64"/>
+  <tile id="2">
+   <objectgroup draworder="index">
+    <object id="0" x="0.2" y="3" width="31.8" height="29.2"/>
+   </objectgroup>
+  </tile>
+  <tile id="3">
+   <objectgroup draworder="index">
+    <object id="0" x="0" y="3" width="32" height="29.2"/>
+   </objectgroup>
+  </tile>
+ </tileset>
+ <tileset firstgid="1733" name="Homework" tilewidth="32" tileheight="32">
+  <image source="../One/Homework.png" width="32" height="32"/>
+ </tileset>
+ <tileset firstgid="1734" name="Spikes" tilewidth="32" tileheight="32">
+  <image source="../One/Spikes.png" width="64" height="64"/>
+ </tileset>
+ <tileset firstgid="1738" name="Spikes 2" tilewidth="32" tileheight="32">
+  <image source="../One/More Spikes.png" width="64" height="64"/>
+ </tileset>
+ <tileset firstgid="1742" name="Wrecking Ball" tilewidth="32" tileheight="32">
+  <image source="../Four/Wrecking Ball.png" width="96" height="96"/>
+ </tileset>
+ <tileset firstgid="1751" name="Death" tilewidth="32" tileheight="32">
+  <image source="../One/Traps.png" width="160" height="64"/>
+ </tileset>
+ <tileset firstgid="1761" name="Indicators" tilewidth="32" tileheight="32">
+  <image source="../One/Indicators.png" width="96" height="64"/>
+ </tileset>
+ <layer name="Background 1" width="300" height="40">
+  <data encoding="base64" compression="zlib">
+   eJzt2cuNAyEMANAovaWhrWG3kjSae6SsgDHYhHd4t0gY/Blm8rjdbg8Auv3d22XHWp2z4hRZc+N5b5d9RtU5K055zmfNjarzase7nnlVS0btrO6bnnvOiJ59XpkbPTFVnFeVYhmJOTsWcmqnwnqRItbN2keFWnt2Ph9WPl93n1c73WVHa2j23rLXqzavZtybWtf9bRSRl4wc9PbyfzFn92rkmWfHNbOGrtbAex209O7qPWbOq11UzcPovatlj7v3uHl1/XxW9EbvejP6OHu+rNpnlTz0xtzy+1k1OSLqG+rs77lX3t+vvmNEnM97rlf0hnkVK+LdMSPu3rr41B8Vvq19Uw2ujnfmvFqZ5x3PfgdVziOzLlpiiKjjld88Z59JlfVGYtplXu1WKyedR/a8irx/Zed1RV6qrPfN84q6dqiLE+u48rwaec5GvhNm54Y8O9TFiXW8co+r3pcj/4/Izg85qvf/qXVcOSeQ4aT+34mc5PspEAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADw2QsF49Ug
+  </data>
+ </layer>
+ <layer name="Background 2" width="300" height="40">
+  <data encoding="base64" compression="zlib">
+   eJzt10dy3DAQBVBupFs4yOk2tuV4K2fLt3EOt3EOa39vXVqMgMaQnHmv6m9RINjdBKcJYL89OJimh8mj5HHyJHmaPEueJyfJi4O5dwkwTS8zi14lr5M3ydvkXfI++ZB8TD4taF6NnK9mN2pg2T7n7L8kX5NvyffkR/Iz+ZX8Tv4s6P2MnK9rm92n6e23yn5dY+/vQg0sUVUtnDucpvPJheRicpRcSi4nV5KrybXD5ex75HztWXspvdnbb5X9usbeX9L3eyk1VaGqFq5nFt1IbibHya3kdnInuZvcS+6fMq9az7J33yPna8/a1b3Zer69/VbZr61rzdmnZ62BkXutrKm5Z9/c34HWs+zdd+t83UTP2tXvo/V8e+d55fegda0572VnrYGRe62sqbnvutv+j/tf61nOve9Rqp+r9Xx753nl96B1rYo+3dZ9YuS9obKm5r7fjLxnbKL1LOfe9yjVz7Wrc30TFc++rfvEyPdUWVP7XE//7OrcWYp9Pt+KZ9/WfWIt72kt+4R9tO/3CWA93CcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGC9/gJU9d/Z
+  </data>
+ </layer>
+ <layer name="Ground" width="300" height="40">
+  <data encoding="base64" compression="zlib">
+   eJzt3N1NwzAUBtD2pfvPwgawSpmACdBFqoqqWHXi1r5OzpEshHlI+eJ+tsLP6QQAAAAAAAAAAAAAAAAAwBo/hXEkMpABALnZk4BZXM+jX8GdM74MggwIS/c8U1+N4r0ggyCDXJa6qUdfZd8vZSCDYO8ep/YsdbR75IwpgyCDXGq7qeUeZd8vl8hABsHePU7LWWrP98gZUwZBBrm0dNPS3Iz75RIZyCBk2ruX8ivl3GO826vPUnvZU5wxZRAyZbDmtYwa7/bqbtrLOpWBDEKmDNZcdw991eMsNeM6dcaUQciewdH6qkc3zbhOZSCDkD2D2mt8n/uP1r4adZbKvk6dMWUQZsxghr7a+lx+VDdlX6cykEGYMYMZ+uqjcmz93mZca7Uy/WxnFBnk2s9bbL1Gz+dX+qpO9melPcggVzfpK30VZnz28GoyyN9No/rqf388fq6v3ivTmhxFBrky0Ff6KmRfkz3IQAYl+mrcPcq+JmUgg9LcKJn6qnTNPfTVjGtSBjIozY2ir+rnSn8HXjOXaa3JQAatcy0ZtPwvA31lzpy53nOl9/wzPa6x1dq++rycTl+X+8erub/fu83yWmQgg9vcbTx+7dnHLdfQVznnltZktnUqAxn07qveQ1/NuSZlIIMj9tUvqcaphQ==
+  </data>
+ </layer>
+ <layer name="Lava" width="300" height="40">
+  <data encoding="base64" compression="zlib">
+   eJztzSEKACAQRNFJe/876cFMIlgEgxjeKwN/wyYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMCvWiW91mqa9meb9ttpb34AAADACwNVfaO5
+  </data>
+ </layer>
+ <layer name="Spikes" width="300" height="40">
+  <data encoding="base64" compression="zlib">
+   eJzt17ENACAIAEEr959LlzIkNla0qHcJC3wB2hoAAAAAAAAAAAAAAABAHaOf8yMNNAAAgNd442sQNACAnHupQdAAAHLupQZBAwDIuZcaBA0A/jPtewAAADZ/ROAW9hUAAAAAAAAAAAAAAAAAAABAbQtrUTM0
+  </data>
+ </layer>
+ <layer name="Cannon" width="300" height="40">
+  <data encoding="base64" compression="zlib">
+   eJzt0EEJAAAIADFf9m9nHbGDIMKW4LgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADZVXhfc88CD4QEAAAAAAAAAwF8NX4UDdQ==
+  </data>
+ </layer>
+ <layer name="Homework" width="300" height="40">
+  <data encoding="base64" compression="zlib">
+   eJzt3bENADAIAzCm/v8UfyE+KAuVKvuCKFO2RAAAAAAAAAAAAAAAAAAAAHAjz+sEAAD8xsbUQdMBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMz4/gEA2FFz5gP4
+  </data>
+ </layer>
+ <layer name="Hidden Block" width="300" height="40">
+  <data encoding="base64" compression="zlib">
+   eJztziEBAAAIA7D3lyQmwh2YLcESAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIA78x0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKBajyIAkw==
+  </data>
+ </layer>
+ <layer name="Portal" width="300" height="40">
+  <data encoding="base64" compression="zlib">
+   eJzt3KERACAMBMGo9F8ehl6isExcYGa3glcvLwIAAAAAAAAAAAAAAAAAAAAAgGPl9AKAnu2vAAAAAAAAAAAAAAAAAAAAAAAAAADgWXrHwC/0jgEAAAAAgJsCItYDgw==
+  </data>
+ </layer>
+ <layer name="Wrecking Ball" width="300" height="40">
+  <data encoding="base64" compression="zlib">
+   eJzt1sEJwzAQRFGd3H9lCTFJP/F2IEPIasR7V/tgPgPrMQAAAAAAAAAAAAAAAAAAANjZ+xjjc3R/RS8NNCCDnWpQNCCBnWpQNKDbzAZ336kGGpDBTjUoGtBpdls771QDDchgpxoUDej0y/3Nvve4nj8X2qkGGpChY6ev6/m50E410IBeHfu7894/aKABGbr2t9I/vgYakKFrpyv942ugARncSw2KBiRwLzUoGpDAvdSgaEAC91KDogEJ3EsNigYkcC81KBoAAAAAAAAAAAAAQKYvPNnlZg==
+  </data>
+ </layer>
+ <layer name="Indicators" width="300" height="40">
+  <data encoding="base64" compression="zlib">
+   eJztziEBAAAIA7Ar+qckBxFwYLYESwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA7nR9DwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA2Ay9YwDt
+  </data>
+ </layer>
+</map>
